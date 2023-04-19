@@ -14,3 +14,8 @@ Install Daysy and Tailwind for svelte
 Ionmi me ha dicho que haga un CRUD
 aprender los  comandos de nest js (sobre todo usar --no-spec para que no haga los files de testeo)
 
+
+
+## TODO
+
+Dockerfy these services and add a database
